@@ -1,0 +1,22 @@
+# Mac
+.DS_Store
+
+# IntelliJ
+**/.idea/*
+.idea/*
+*.iml
+*.iws
+.*.java.swp
+
+# Maven
+log/
+target/
+
+# Selenium
+*.log
+
+# Other
+output/
+*.zip
+*.lock
+.swp
